@@ -1,0 +1,8 @@
+Vehicle Information
+--------------------
+Number of Bikes: 1
+Number of Cars: 0
+Number of Trucks: 0
+Company Name					Type			 Color		Power
+----------------------------------------------------------------------
+mehran						Bike			 black		12
